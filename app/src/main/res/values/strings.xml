@@ -3,7 +3,7 @@
     <string name="welcome">Country Blitz Quizz</string>
     <string name="description">The quizz you are about to begin \n will test you're knwolage</string>
     <string name="begin">Begin</string>
-
+    <string name="title_activity_quizz">Quizz</string>
 
 
 </resources>
