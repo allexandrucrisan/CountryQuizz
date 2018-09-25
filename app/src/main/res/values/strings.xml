@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Country Quizz</string>
+    <string name="welcome">Country Blitz Quizz</string>
+    <string name="description">The quizz you are about to begin \n will test you're knwolage</string>
+    <string name="begin">Begin</string>
+
+
+
+</resources>
